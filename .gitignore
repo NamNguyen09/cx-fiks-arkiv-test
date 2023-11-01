@@ -1,0 +1,8 @@
+
+*.vsidx
+*.lock
+*.v2
+.vs/cx.Fiks.Archive/v17/.suo
+cx.Fiks.Archive/bin/*
+cx.Fiks.Archive/obj/*
+*.exe
